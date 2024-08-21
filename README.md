@@ -1,16 +1,13 @@
-# Fresh project
+Version 1.0.0
+A sunburst visualisation for risk data on the LCA app.
+This is a test version using dummy data with the hope of implementation into the actual LCA tool currently under development
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+########################################################
+To use:
+########################################################
 
-### Usage
-
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
-
-Then start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+=> Add a data file under database/Excel/Input_Data.xlsx
+=> Uncomment dev.ts lines 6 & 7
+=> Run the app: deno task start
+=> Comment out dev.ts lines 6 & 7
+=> Re-run the app
