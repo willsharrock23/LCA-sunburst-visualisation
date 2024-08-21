@@ -1,0 +1,29 @@
+.dropdown-menu {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.theme5 {
+    color: white !important;
+    background-color: black !important;
+}
+
+.theme4 {
+    background-color: rgba(255, 0, 0, 0.603) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.theme3 {
+    background-color: rgba(237, 124, 49, 0.678) !important;
+    color: rgb(0, 0, 0) !important;
+}
+
+.theme2 {
+    background-color: rgba(255, 255, 0, 0.781) !important;
+    color: rgb(0, 0, 0) !important;
+}
+
+.theme1 {
+    background-color: rgba(112, 173, 71, 0.5) !important;
+    color: rgb(0, 0, 0) !important;
+}
